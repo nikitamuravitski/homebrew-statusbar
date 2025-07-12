@@ -2,7 +2,7 @@ class Statusbar < Formula
   desc "Minimal macOS status bar app with CLI"
   homepage "https://github.com/nikitamuravitski/homebrew-statusbar"
   url "https://github.com/nikitamuravitski/homebrew-statusbar/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "0dd754b39e8091e64a3cf6b29ee1b56db0f965b1f7a7323c8158c1910f826d53"
   license "MIT"
 
   depends_on :macos
