@@ -2,7 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install nikitamuravitski/statusbar/<formula>`
+`brew install statusbar`
+
+Or `brew install nikitamuravitski/statusbar/<formula>`
 
 Or `brew tap nikitamuravitski/statusbar` and then `brew install <formula>`.
 
